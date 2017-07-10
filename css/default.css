@@ -40,7 +40,6 @@ aside{
  width: 200px;
  float: right;
  position: relative;
- top: 20px;
 }
 footer{
  background-color: skyblue;
@@ -52,12 +51,9 @@ footer{
 }
 #gnav li {
   float: left;
-  width: 19%;
-  border-right: white 1px solid;
-  list-style-type: none;
-}
-#gnav li:first-child {
+  width: 19.9%;
   border-left: white 1px solid;
+  list-style-type: none;
 }
 
 #gnav a {
