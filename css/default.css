@@ -47,3 +47,49 @@ footer{
  background-color: skyblue;
  clear: both;
 }
+
+#gnav ul {
+  overflow: hidden;
+}
+#gnav li {
+  float: left;
+  width: 156px;
+  border-right: white 1px solid;
+  list-style-type: none;
+}
+#gnav li:first-child {
+  border-left: white 1px solid;
+}
+
+#gnav a {
+  display: block;
+  padding: 10px 0;
+  text-align: center;
+  text-decoration: none;
+  background: darkblue;
+  color: white;
+}
+#gnav a:hover {
+  background: lightblue;
+  color: black;
+}
+#gnav a:after {
+  clear: both;
+}
+#gnav div.img {
+  display: table-cell;
+  vertical-align: middle;
+  background: url(../icon_sprite.jpg) no-repeat;
+  width: 40px;
+  height: 40px;
+}
+#gnav div.text{
+  display: table-cell;
+  vertical-align: middle;
+  padding: 10px 5px;
+}
+div.img#home{ background-position: -440px -40px;}
+div.img#content1{ background-position: -320px -40px;}
+div.img#content2{ background-position: -480px -120px;}
+div.img#help{ background-position: -760px -200px;}
+div.img#faq{ background-position: -560px -160px;}
