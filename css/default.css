@@ -42,7 +42,7 @@ aside{
  float: right;
  position: relative;
  top: 20px;
- right: 2px;
+ right: 3px;
 }
 footer{
  background-color: skyblue;
@@ -54,7 +54,7 @@ footer{
 }
 #gnav li {
   float: left;
-  width: 100%;
+  width: 20%;
   border-right: white 1px solid;
   list-style-type: none;
 }
