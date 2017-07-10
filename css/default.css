@@ -38,6 +38,7 @@ header{
 aside{
  background-color: #cceedd;
  width: 200px;
+ height: 100%;
  float: right;
  position: relative;
  top: 20px;
@@ -53,7 +54,7 @@ footer{
 }
 #gnav li {
   float: left;
-  width: 156px;
+  width: 100%;
   border-right: white 1px solid;
   list-style-type: none;
 }
