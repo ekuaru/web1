@@ -7,7 +7,7 @@
 
 body{
  background-color: gray;
- margin: 48px 0 0 0;
+ margin: 98px 0 0 0;
 }
 header{
  background-color: skyblue;
@@ -15,7 +15,9 @@ header{
  left: 0;
  top: 0;
  width: 100%;
- z-index: +1;
+ text-size: 10px;
+ text-align: center;
+
 }
 
 #main{
@@ -43,6 +45,8 @@ aside{
 }
 footer{
  background-color: skyblue;
+ text-size: 10px;
+ text-align: center;
  clear: both;
 }
 
@@ -88,3 +92,9 @@ div.img#content1{ background-position: -320px -40px;}
 div.img#content2{ background-position: -480px -120px;}
 div.img#help{ background-position: -760px -200px;}
 div.img#faq{ background-position: -560px -160px;}
+
+#gnav2{
+  position: fixed;
+  left: 0;
+  top: 48px;
+}
