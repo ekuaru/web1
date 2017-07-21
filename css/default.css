@@ -18,9 +18,9 @@ header{
  left: 0;
  top: 0;
  width: 100%;
- text-size: 10px;
+ font-size: 20px;
  text-align: center;
-
+ padding 5px;
 }
 
 #main{
@@ -42,8 +42,9 @@ header{
 
 footer{
  background-color: skyblue;
- text-size: 10px;
+ font-size: 20px;
  text-align: center;
+ padding: 5px;
  clear: both;
 }
 
