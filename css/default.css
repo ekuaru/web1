@@ -9,6 +9,9 @@ body{
  background-color: gray;
  margin: 48px 0 0 0;
 }
+#pad{
+  margin: 50px 0 0 0;
+}
 header{
  background-color: skyblue;
  position: fixed;
