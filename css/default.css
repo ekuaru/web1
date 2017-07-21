@@ -7,10 +7,10 @@
 
 body{
  background-color: gray;
- margin:65px 0 0 0;
+ margin:62px 0 0 0;
 }
 #pad{
-  margin: 115px 0 0 0;
+  margin: 112px 0 0 0;
 }
 header{
  background-color: skyblue;
@@ -88,6 +88,6 @@ div.img#faq{ background-position: -560px -160px;}
 #gnav2{
   position: fixed;
   left: 0;
-  top: 65px;
+  top: 62px;
   width: 100%;
 }
