@@ -22,19 +22,16 @@ header{
  font-weight: bold;
  padding: 3px 0;
 }
-#dot_pic{
- 
-}
 
 #main{
  background-color: white;
  width: calc(100% - 200px);
  min-width: 500px;
- float: left;
 }
 
 footer{
  background-color: skyblue;
+ width: 100%;
  font-size: 20px;
  font-weight: bold;
  text-align: center;
