@@ -20,7 +20,10 @@ header{
  width: 100%;
  font-size: 30px;
  font-weight: bold;
- padding: 10px 0;
+ padding: 3px 0;
+}
+#dot_pic{
+ 
 }
 
 #main{
@@ -44,7 +47,7 @@ footer{
 }
 #gnav li {
   float: left;
-  width: 19.5%;
+  width: 19.7%;
   border-left: white 1px solid;
   list-style-type: none;
 }
