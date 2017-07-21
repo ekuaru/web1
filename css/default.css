@@ -25,13 +25,12 @@ header{
 
 #main{
  background-color: white;
- width: calc(100% - 200px);
+ width: 100%;
  min-width: 500px;
 }
 
 footer{
  background-color: skyblue;
- width: 100%;
  font-size: 20px;
  font-weight: bold;
  text-align: center;
