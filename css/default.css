@@ -7,7 +7,7 @@
 
 body{
  background-color: gray;
- margin: 98px 0 0 0;
+ margin: 48px 0 0 0;
 }
 header{
  background-color: skyblue;
@@ -37,12 +37,6 @@ header{
  overflow: auto;
 }
 
-aside{
- background-color: #cceedd;
- width: 200px;
- float: right;
- position: relative;
-}
 footer{
  background-color: skyblue;
  text-size: 10px;
