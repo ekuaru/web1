@@ -36,6 +36,9 @@ header{
 #bird_pic{
  padding: 5px 10px;
 }
+#cat_pic{
+ padding: 10px 5px;
+}
 footer{
  background-color: skyblue;
  font-size: 20px;
