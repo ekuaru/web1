@@ -31,9 +31,11 @@ header{
 
 .box2{
  background-color: white;
+ padding: 5px;
+}
+#bird_pic{
  padding: 5px 10px;
 }
-
 footer{
  background-color: skyblue;
  font-size: 20px;
