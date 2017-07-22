@@ -86,10 +86,9 @@ footer{
   padding: 10px 5px;
 }
 div.img#home{ background-position: -440px -40px;}
-div.img#content1{ background-position: -320px -40px;}
-div.img#content2{ background-position: -480px -120px;}
-div.img#help{ background-position: -760px -200px;}
-div.img#faq{ background-position: -560px -160px;}
+div.img#content1{ background-position: -280px 0;}
+div.img#content2{ background-position: -280px -120px;}
+div.img#help{ background-position: -680px -160px;}
 
 #gnav2{
   position: fixed;
